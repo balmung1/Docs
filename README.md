@@ -9,13 +9,13 @@
 개요       : 신규영화 정보에 사용자 리뷰를 등록
 
 # 서비스 시나리오
-기능적 요구사항
+기능적 요구사항          
 시나리오1:  'Movie' 서비스에 영화 등록 => MovieCreate 이벤트발생 =>  'Review'서비스에 영화정보 생성 =>  MovieInfoCreate 이벤트발생 => 'Notice'서비스에 알림요청 => NoticeSent 알림발송
 
 시나리오2: 'Review'서비스에 영화리뷰 작성 => ReviewWrited 이벤트발생 => 'Notice'서비스에 알림요청 => NoticeSent 알림발송
 
 # 시나리오1
-1) First Evnet
+1) First Evnet     
 ![시나리오1_스타트](https://user-images.githubusercontent.com/63028480/80065135-99210500-8574-11ea-8365-516fffd08382.PNG)
 
 2) Movie Event / Review Event
