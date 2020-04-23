@@ -1,5 +1,5 @@
 # Event Storming
-
+![Admin22_이벤트스토밍결과](https://user-images.githubusercontent.com/63028480/80064597-6296ba80-8573-11ea-8f0d-e8cf42a5fd05.PNG)
 
 # Cloud 구현 화면
 
