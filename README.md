@@ -15,6 +15,9 @@
 시나리오2: 'Review'서비스에 영화리뷰 작성 => ReviewWrited 이벤트발생 => 'Notice'서비스에 알림요청 => NoticeSent 알림발송
 
 # 시나리오1
+시나리오1 흐름도     
+![시나리오1_흐름](https://user-images.githubusercontent.com/63028480/80065575-4eec5380-8575-11ea-8595-a2575b336246.PNG)
+
 1) First Evnet     
 ![시나리오1_스타트](https://user-images.githubusercontent.com/63028480/80065135-99210500-8574-11ea-8365-516fffd08382.PNG)
 
