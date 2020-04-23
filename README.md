@@ -18,10 +18,10 @@
 시나리오1 흐름도     
 ![시나리오1_흐름](https://user-images.githubusercontent.com/63028480/80065575-4eec5380-8575-11ea-8595-a2575b336246.PNG)
 
-1) First Evnet     
+1) MovieCreate    
 ![시나리오1_스타트](https://user-images.githubusercontent.com/63028480/80065135-99210500-8574-11ea-8365-516fffd08382.PNG)
 
-2) Movie Event / Review Event
+2) MovieCreated / MovieInfoCreated
 ![시나리오1_Movie이벤트와Review이벤트발생](https://user-images.githubusercontent.com/63028480/80065145-9c1bf580-8574-11ea-8c68-572a9a3fd0db.PNG)
 
 3) Notice 알림
